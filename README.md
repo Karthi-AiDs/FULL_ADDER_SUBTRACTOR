@@ -55,6 +55,10 @@ Full Subtractor
 
 5).For different input combinations generate the timing diagram
 
+Developed by: KARTHIKEYAN D
+
+Registration no: 24000848
+
 **Program:**
 
 
